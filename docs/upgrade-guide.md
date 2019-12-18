@@ -10,7 +10,7 @@ The first step to migrate AdminLTE v2.4.x to v3.0 is upgrade the Bootstrap 3 bas
 The biggest change in Main Header is the Logo is moved to Main Sidebar and the Main Header has now color variations, here are all changes:
 
 1. Logo 
-  - `<a href="index2.html" class="logo">` moved & rebuild to `.brand-link` inside `.main-sidebar`
+  - `<a href="index2.phpP" class="logo">` moved & rebuild to `.brand-link` inside `.main-sidebar`
 2. Header / Nav
   - `<header class="main-header">` & `<nav class="navbar navbar-static-top">` merged with `<nav class="main-header navbar navbar-expand navbar-white navbar-light">`
 3. Sidebar Toggle / Left Navbar
